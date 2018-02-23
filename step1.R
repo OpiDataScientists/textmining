@@ -1,0 +1,1 @@
+doc = xmlTreeParse("pubmed.xml", useInternal = TRUE)
